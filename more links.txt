@@ -4,8 +4,9 @@ Two Minute Papers
 DeepLearning.TV
 Data School 
 Machine Learning Recipes with Josh Gordon 
-Artificial Intelligence — Topic
+Artificial Intelligence â€” Topic
 Allen Institute for Artificial Intelligence (AI2) 
 Machine Learning at Berkeley 
-Understanding Machine Learning — Shai Ben-David 
+Understanding Machine Learning â€” Shai Ben-David 
 Machine Learning TV 
+3Blue1Brown
